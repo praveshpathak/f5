@@ -8,4 +8,6 @@ For information on getting started using F5's ARM templates on GitHub, see Micro
 
 Networking Stack Type: This template deploys into an existing networking stack; so the networking infrastructure MUST be available prior to deploying. See the Template Parameters Section for required networking objects.
 
-![Deploy to Azure](https://aka.ms/deploytoazurebutton)
+
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fpraveshpathak%2Ff5%2Fmain%2Fazuredeploy.json)
